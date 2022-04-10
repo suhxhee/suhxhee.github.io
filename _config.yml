@@ -3,7 +3,7 @@ title: 木子丶小二 #主标题
 SEOTitle: 小二的博客 | Xiao2's Blog #标签栏标题
 header-img: img/post-bg-desk.jpg #主标题图片
 email: suhxhee@qq.com #邮箱地址
-description: "ABC" #副标题
+description: "随便写写" #副标题
 keyword: "小二,木子,木子丶小二,学习,高中,数学,物理,化学,理科" #关键词
 url: "https://suhxhee.github.io"          #博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/suhxhee/suhxhee.github.io.git" #代码库地址
 
 # 侧边栏设置
 sidebar: true                           #是否启用侧边栏
-sidebar-about-description: "能摆烂就摆烂"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "君子生非异也，善假于物也。" #侧边栏底部文字
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
