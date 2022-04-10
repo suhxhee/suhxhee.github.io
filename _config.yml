@@ -3,7 +3,7 @@ title: 木子丶小二 #主标题
 SEOTitle: 小二的博客 | Xiao2's Blog #标签栏标题
 header-img: img/post-bg-desk.jpg #主标题图片
 email: suhxhee@qq.com #邮箱地址
-description: "随便写写" #副标题
+description: "小二的博客，随便写写" #网站描述
 keyword: "小二,木子,木子丶小二,学习,高中,数学,物理,化学,理科" #关键词
 url: "https://suhxhee.github.io"          #博客地址
 baseurl: ""      #for example, '/blog' if your blog hosted on 'host/blog'
